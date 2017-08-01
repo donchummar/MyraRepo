@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/icon_overlay"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/app_icon" />
+
+    <LinearLayout
+        android:id="@+id/child_lyt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/icon_overlay"
+        android:layout_toRightOf="@id/icon_overlay"
+        android:background="@color/colorAccent"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/edit_qty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="quantinty" />
+
+        <TextView
+            android:id="@+id/remove_child_text"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:text="Remove" />
+    </LinearLayout>
+</RelativeLayout>

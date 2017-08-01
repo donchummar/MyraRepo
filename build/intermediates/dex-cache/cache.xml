@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/c8d807af8cffac90f624a38e63028a163568c22d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41bfe9ff36835d8e470a3ae3d7decd09860fa9e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/feece29538ca215e9edc7ad3b7e208e091261f88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_389aeca71ec1484705e506528ba7fffe85c59914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/06da0249cd613af0840f698f3111729ba3b067cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7eccd8bf51dc9a443de27217969c0ea2ceff9066/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/fb4dd7b71beb4a2f5293e1bed9edeb3831a2b596/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59429a2b180b3562b0469b88944e713fee0bffc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/Documents/android-studio/gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_2fee3fd06afb6c1406062e8fc7b52dcde64df86d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/1c18adba2dcc039dda42158deea945a9d0073625/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13d907e0781ff2852c22f40136872079391c8463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22af9c151cafe48d3a25da2824bce0ef821014bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/d889b8d1de73904dac9e0262452f55fef3644008/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8edc9707d072fa392d397475c1a707a731a3a492/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/a0c345b09a309ba7150e6e24ff47bd3783ecaabd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53580d78c172f06dd2d6a92387f70ebc462bcbf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e22cff25008c80b500c1ab528424689e5463cba">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1d078b078cefe6f860bc798bec308169f1030835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/Documents/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.3.3_33b06ac6fb384cafe55de3f5927f06f166339456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/1feaa200201654eb88f54d8c610aeb2974d0c41f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bf32f1b7d51d7e5f85d66b83e86b7becc084709">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f38fc4594627e236bf573e8f0d50a827303eb73b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/957f7022933b05b3b6874d5ec1150f6abfc7f35b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e167feb8cfe961617fcf77776b5cd671764b059a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/don/.android/build-cache/22e4887e120b63d768b49a99ac195a30cebdbdf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/don/Documents/WORKPLACE/Myra/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3db4ea67880e4135f21d0f3611bba5057d149902/classes.dex" />
+    </item>
+
+</items>
